@@ -8,7 +8,8 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "13.x"
+    "node": "16.17.0",
+    "npm": "8.15.0"
   },
   "license": "MIT",
   "dependencies": {
