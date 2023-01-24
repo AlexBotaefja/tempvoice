@@ -143,7 +143,7 @@ client.commands = new Discord.Collection()
 client.prefix = PREFIX
 client.aliases = new Discord.Collection()
 client.logger = new CatLoggr()
-client.login(process.env.Token)
+client.login("OTY4OTQ4NDI2NzM1Nzc5ODQw.GETWL8.Ed3d3I0HLEcqwCnLwrf8KNtzx8Cwv1PhklrqQM")
 //UPTIME AND INLINEREPLY SUPPORT
 require("./Support.js")()
 require("./InlineMessage");
